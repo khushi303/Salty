@@ -23,7 +23,23 @@
     --fw-500: 500;
     --fw-600: 600;
     --fw-700: 700;
+
+    /* colour */
+    --lightblack: #2D3134;
+    --lightbrown: #FAF8ED;
+    --darkblue: #2E476B;
+    --bluebright: #5B5F62;
+    --blackdk: #9498A4;
+    --white: #FFFFFF;
+    --blackb: #939597;
+    --blackbr: #676A6C;
+    --orange: #F66F4D;
+    --white-1: #EAEAEB;
+    --white-2: #FDFEFF;
+    --black-1: #3D3D3D;
 }
+
+/* Font-Size */
 
 .fs-2xsm {
     font-size: var(--fs-2xsm);
@@ -85,6 +101,8 @@
     font-size: var(--fs-2xl);
 }
 
+/* Font-Weight */
+
 .fw-400 {
     font-weight: var(--fw-400);
 }
@@ -101,6 +119,8 @@
     font-weight: var(--fw-700);
 }
 
+/* Font Family */
+
 .ff-poppins {
     font-family: 'poppins', sans-serif;
 }
@@ -111,4 +131,42 @@
 
 .ff-sen {
     font-family: 'Sen', sans-serif;
+}
+
+/* colour */
+
+.lightblack {
+    color: var(--lightblack);
+}
+
+.lightbrown {
+    background-color: var(--lightbrown);
+}
+
+.darkblue {
+    color: var(--darkblue);
+}
+
+.bluebright {
+    color: var(--bluebright);
+}
+
+.blackdk {
+    color: var(--blackdk);
+}
+
+.white {
+    color: var(--white);
+}
+
+.blackb {
+    color: var(--blackb);
+}
+
+.blackbr {
+    color: var(--blackbr) !important;
+}
+
+.orange {
+    color: var(--orange);
 }
