@@ -15,8 +15,8 @@
     --fs-2xlg: 30px;
     --fs-xlg: 40px;
     --fs-lg: 46px;
-    --fs-xl: 56px;
-    --fs-2xl: 84px;
+    --fs-xl: 46px;
+    --fs-2xl: 70px;
 
     /* Font-Weight */
     --fw-400: 400;
@@ -37,6 +37,15 @@
     --white-1: #EAEAEB;
     --white-2: #FDFEFF;
     --black-1: #3D3D3D;
+}
+
+@media (min-width:567px) {
+
+    :root {
+        /* font-size */
+        --fs-xl: 56px;
+        --fs-2xl: 84px;
+    }
 }
 
 /* Font-Size */
