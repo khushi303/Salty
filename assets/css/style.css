@@ -63,7 +63,7 @@
     position: absolute;
     bottom: 0;
     width: 0;
-    height: 2px;
+    height: 3px;
     background: var(--orange);
     left: 0;
     transition: .3s linear;
@@ -630,7 +630,7 @@ input {
     content: "";
     position: absolute;
     width: 0;
-    height: 2px;
+    height: 3px;
     bottom: -4px;
     border-radius: 2px;
     background: var(--blackbr);
