@@ -83,18 +83,8 @@
     line-height: 86px;
 }
 
-
-
-.mw-500 {
-    max-width: 500px;
-}
-
 .mb-75 {
     margin-bottom: 75px;
-}
-
-.mw-140 {
-    max-width: 140px;
 }
 
 .pb-26 {
@@ -130,10 +120,6 @@
 
 .pl-0 {
     padding-left: 0 !important;
-}
-
-.mw-370 {
-    max-width: 370px;
 }
 
 .pb-60 {
@@ -244,10 +230,6 @@
     letter-spacing: 4px;
 }
 
-.mw-467 {
-    max-width: 467px;
-}
-
 .pt-20 {
     padding-top: 20px;
 }
@@ -260,10 +242,6 @@
 
 .mw-84 {
     max-width: 84px;
-}
-
-.mw-400 {
-    max-width: 400px;
 }
 
 .lh-66 {
@@ -720,6 +698,26 @@ input {
         top: 4%;
         left: 6%;
         z-index: 1;
+    }
+
+    .mw-370 {
+        max-width: 370px;
+    }
+
+    .mw-500 {
+        max-width: 500px;
+    }
+
+    .mw-467 {
+        max-width: 467px;
+    }
+
+    .mw-400 {
+        max-width: 400px;
+    }
+
+    .mw-140 {
+        max-width: 140px;
     }
 }
 
