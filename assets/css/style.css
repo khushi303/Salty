@@ -634,7 +634,7 @@ input {
 }
 
 .footer_link:hover:after {
-    width: 100%;
+    width: 50%;
 }
 
 .mx-12 {
