@@ -618,7 +618,7 @@ input {
 
 .footer_link {
     position: relative;
-    transition: .3s linear;
+    /* transition: .3s linear; */
 }
 
 .footer_link::after {
@@ -628,7 +628,7 @@ input {
     height: 3px;
     bottom: -4px;
     border-radius: 2px;
-    background: var(--blackbr);
+    background: var(--orange);
     left: 0;
     transition: .3s linear;
 }
